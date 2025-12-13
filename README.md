@@ -85,8 +85,9 @@ Visualization:
 ## 🗂️ Repository Structure
 
 ```text
+├── README.md
 ├── engagement_analysis.py          # Data analysis, statistics, and visualization
 ├── youtube_data.py                 # YouTube API data collection and preprocessing
 ├── youtube_length_engagement.csv   # Final cleaned dataset
-├── youtube_engagement_analysis.png # Engagement visualizations
-└── README.md
+└── youtube_engagement_analysis.png # Engagement visualizations
+ 
